@@ -35,7 +35,7 @@ ScholarPath is a modern, AI-powered scholarship discovery, eligibility matching,
 
 ## Getting Started
 
-### 1. Run the Frontend (Demo Mode)
+### 1. Run the Frontend
 
 ```bash
 cd scholarpath/frontend
@@ -45,7 +45,7 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-### 2. Run the Backend API Gateway (Optional)
+### 2. Run the Backend API Gateway 
 
 ```bash
 cd scholarpath/backend
