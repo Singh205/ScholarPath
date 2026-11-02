@@ -59,10 +59,6 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload --port 8000
 ```
 
-Backend API documentation will be available at [http://localhost:8000/docs](http://localhost:8000/docs).
 
-## Currently Working MVP vs. Future Integration
 
-- **Working MVP**: The frontend compiles and runs completely out-of-the-box using client-side service abstractions and LocalStorage persistence.
-- **Integration Ready**: The backend Python project structure contains real architectural files, REST routes, schemas, agent modules, and Azure SDK initialization pathways ready for live cloud credentials.
 
